@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm David Castillo</h1>
-<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center"> <a href="https://twitter.com/davidcastillog" target="blank"><img src="https://img.shields.io/twitter/follow/davidcastillog?logo=twitter&style=for-the-badge" alt="davidcastillog" /></a> </p>
 
 <h3>About Me</h3>
-
-- 🧑🏻‍💻 MERN Stack
 - @ <a href='https://github.com/ironhack'> **Ironhack**</a> Alumni
 
 <h3 align="left">Languages and skills:</h3>
@@ -26,4 +23,4 @@
 </p>
 
 <h3> My GitHub Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidcastillog&show_icons=true&theme=dark&locale=en" alt="davidcastillog" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-davidcastillog.vercel.app/api?username=davidcastillog&show_icons=true&theme=dark&locale=en" alt="davidcastillog" /></p>
