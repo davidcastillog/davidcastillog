@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://twitter.com/davidcastillog" target="blank"><img src="https://img.shields.io/twitter/follow/davidcastillog?logo=twitter&style=for-the-badge" alt="davidcastillog" /></a> </p>
 
 <h3>About Me</h3>
-@<a href='https://github.com/ironhack'>ironhack</a> alumni
+@<a href='https://www.ironhack.com'>ironhack</a> alumni
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
